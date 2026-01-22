@@ -9,3 +9,7 @@ https://github.com/jaredthecoder/awesome-vehicle-security?tab=readme-ov-file#lea
 https://www.freecodecamp.org/news/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec
 
 https://illmatics.com/carhacking.html
+
+CANBus Injection
+
+CANBus Fuzzing
